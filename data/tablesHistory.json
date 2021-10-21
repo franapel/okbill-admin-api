@@ -1,0 +1,188 @@
+[
+    {
+        "id": "1",
+        "table_id": "1",
+        "user_id": "1",
+        "state": "seated",
+        "payed": true,
+        "date": "2021-10-19T21:17:00.000Z"
+    },
+    {
+        "id": "2",
+        "table_id": "2",
+        "user_id": "1",
+        "state": "free",
+        "payed": true,
+        "date": "2021-10-19T21:25:00.000Z"
+    },
+    {
+        "id": "3",
+        "table_id": "3",
+        "user_id": "5",
+        "state": "reserved",
+        "payed": false,
+        "date": "2021-10-12T14:49:00.000Z"
+    },
+    {
+        "id": "4",
+        "table_id": "4",
+        "user_id": "2",
+        "state": "seated",
+        "payed": true,
+        "date": "2021-10-14T15:24:00.000Z"
+    },
+    {
+        "id": "5",
+        "table_id": "5",
+        "user_id": "3",
+        "state": "free",
+        "payed": false,
+        "date": "2021-10-07T03:52:00.000Z"
+    },
+    {
+        "id": "6",
+        "table_id": "6",
+        "user_id": "3",
+        "state": "reserved",
+        "payed": true,
+        "date": "2021-10-06T02:25:00.000Z"
+    },
+    {
+        "id": "7",
+        "table_id": "7",
+        "user_id": "4",
+        "state": "seated",
+        "payed": true
+    },
+    {
+        "id": "8",
+        "table_id": "8",
+        "user_id": "5",
+        "state": "free",
+        "payed": false
+    },
+    {
+        "id": "9",
+        "table_id": "9",
+        "user_id": "5",
+        "state": "free",
+        "payed": false
+    },
+    {
+        "id": "10",
+        "table_id": "10",
+        "user_id": "5",
+        "state": "free",
+        "payed": false
+    },
+    {
+        "id": "11",
+        "table_id": "11",
+        "user_id": "5",
+        "state": "free",
+        "payed": false
+    },
+    {
+        "id": "19",
+        "table_id": "12",
+        "user_id": "5",
+        "state": "free",
+        "payed": false
+    },
+    {
+        "table_id": "13",
+        "user_id": "3",
+        "state": "reserved",
+        "payed": false,
+        "date": "2021-10-20T21:45:00.000Z",
+        "id": "20"
+    },
+    {
+        "table_id": "13",
+        "user_id": "3",
+        "state": "reserved",
+        "payed": false,
+        "date": "2021-10-20T21:45:00.000Z",
+        "id": "21"
+    },
+    {
+        "id": "22",
+        "table_id": "4",
+        "user_id": "3",
+        "state": "reserved",
+        "payed": false,
+        "date": "2021-10-20T18:45:00.000Z"
+    },
+    {
+        "id": "23",
+        "table_id": "13",
+        "user_id": "2",
+        "state": "reserved",
+        "payed": true,
+        "date": "2021-10-20T18:55:00.000Z"
+    },
+    {
+        "id": "24",
+        "table_id": "4",
+        "user_id": "5",
+        "state": "free",
+        "payed": false,
+        "date": "2021-10-20T21:54:00.000Z"
+    },
+    {
+        "id": "25",
+        "table_id": "4",
+        "user_id": "5",
+        "state": "free",
+        "payed": false,
+        "date": "2021-10-20T21:54:00.000Z"
+    },
+    {
+        "id": "26",
+        "table_id": "4",
+        "user_id": "5",
+        "state": "free",
+        "payed": false,
+        "date": "2021-10-20T21:54:00.000Z"
+    },
+    {
+        "id": "27",
+        "table_id": "4",
+        "user_id": "5",
+        "state": "free",
+        "payed": false,
+        "date": "2021-10-20T21:54:00.000Z"
+    },
+    {
+        "id": "28",
+        "table_id": "4",
+        "user_id": "5",
+        "state": "free",
+        "payed": false,
+        "date": "2021-10-20T21:54:00.000Z"
+    },
+    {
+        "id": "29",
+        "table_id": "4",
+        "user_id": "5",
+        "state": "free",
+        "payed": false,
+        "date": "2021-10-20T21:54:00.000Z"
+    },
+    {
+        "id": "30",
+        "table_id": "12",
+        "user_id": "4",
+        "state": "free",
+        "payed": false,
+        "date": "2021-10-17T22:05:00.000Z"
+    },
+    {
+        "id": "31",
+        "table_id": "12",
+        "user_id": "1",
+        "state": "seated",
+        "payed": false,
+        "date": "2021-10-21T18:06:00.000Z"
+    }
+]
