@@ -6,10 +6,10 @@ const fs = require("fs")
 
 app.use(cors())
 app.use(express.json())
-app.use(express.static(__dirname + "/data"))
+app.use(express.static("data"))
 
 app.listen(
-    PORT,
+    process.env.PORT || PORT,
     () => console.log("Server running on port 8080..")
 )
 
