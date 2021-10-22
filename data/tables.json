@@ -2,61 +2,45 @@
     {
         "id": "1",
         "capacity": 4,
-        "position": "1A"
+        "position": "1A",
+        "orders": [
+            {
+                "users": [
+                    {
+                        "user_id": "",
+                        "user_orders": [
+                            {
+                                "product_id": "",
+                                "quantity": "",
+                                "date": ""
+                            }
+                        ],
+                        "payed": false
+                    }
+                ],
+                "done": false,
+                "date": ""
+            }
+        ],
+        "state": "free"
     },
     {
         "id": "2",
         "capacity": 4,
-        "position": "1A"
+        "position": "1A",
+        "state": "free"
     },
     {
         "id": "3",
-        "capacity": 4,
-        "position": "1A"
+        "capacity": 6,
+        "position": "1A",
+        "state": "free"
     },
     {
         "id": "4",
-        "capacity": 4,
-        "position": "1A"
-    },
-    {
-        "id": "5",
-        "capacity": 4,
-        "position": "1A"
-    },
-    {
-        "id": "6",
-        "capacity": 4,
-        "position": "1A"
-    },
-    {
-        "id": "7",
-        "capacity": 4,
-        "position": "1A"
-    },
-    {
-        "id": "8",
-        "capacity": 4,
-        "position": "1A"
-    },
-    {
-        "id": "9",
-        "capacity": 4,
-        "position": "1A"
-    },
-    {
-        "id": "10",
-        "capacity": 4,
-        "position": "1A"
-    },
-    {
-        "id": "11",
-        "capacity": 4,
-        "position": "1A"
-    },
-    {
-        "id": "12",
-        "capacity": 4,
-        "position": "1A"
+        "capacity": 2,
+        "position": "1A",
+        "state": "free"
     }
+    
 ]

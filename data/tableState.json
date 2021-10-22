@@ -4,6 +4,22 @@
         "table_id": "1",
         "user_id": "1",
         "state": "seated",
+        "payed": false,
+        "date": "2021-10-19T21:17:00.000Z"
+    },
+    {
+        "id": "1",
+        "table_id": "1",
+        "user_id": "1",
+        "state": "seated",
+        "payed": true,
+        "date": "2021-10-19T21:17:00.000Z"
+    },
+    {
+        "id": "1",
+        "table_id": "1",
+        "user_id": "1",
+        "state": "seated",
         "payed": true,
         "date": "2021-10-19T21:17:00.000Z"
     },
